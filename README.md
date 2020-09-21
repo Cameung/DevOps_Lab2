@@ -11,10 +11,9 @@
 - Install Git
 - Install GitHib Desktop
 - Install IDE or text Editor
-- Install NodeJS
 
 ## Usage Instructions
 - 
 
 ## Author Information
-Camille EUNG ING4 SI INTER GR3A
+Camille EUNG & BENJAMIN TAN ING4 SI INTER GR3A
