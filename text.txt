@@ -1,0 +1,4 @@
+# DevOps_Lab2
+
+V1.0.0
+tests conflicts from from data
